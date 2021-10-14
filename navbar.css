@@ -1,0 +1,36 @@
+.nav{
+    display:flex;
+    background-color: turquoise;
+    justify-content: space-between;
+    margin-bottom: 33px;
+}
+
+.nav-title{
+ display: flex;
+ margin-left: 33px;
+}
+
+.nav-links{
+    display: flex;
+    margin: 33px;
+    margin-right: 33px;
+    margin-left: 33px;
+    padding: 3px;
+    justify-content: space-around;
+   
+}
+button{
+    background-color: lawngreen;
+    color: orange;
+   border: black 33px;
+   box-shadow: 3px  3px yellow ;
+}
+a{
+    text-decoration: none;
+    margin: 3px;
+
+}
+
+li{
+    list-style-type: none;
+}
